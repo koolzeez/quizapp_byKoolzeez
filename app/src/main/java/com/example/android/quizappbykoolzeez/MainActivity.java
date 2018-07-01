@@ -105,6 +105,7 @@ public class MainActivity extends AppCompatActivity {
 
             case R.id.a5:
                 if (checked)
+                    scoreFive = 1;
                     break;
             case R.id.b5:
                 if (checked)
